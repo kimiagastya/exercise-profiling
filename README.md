@@ -29,13 +29,13 @@ Jawaban: Ya, terdapat peningkatan performa pada setiap request yang dapat diliha
 
 * JMeter Tests
   * all-student Request (Before)
-    ![Test Results](test-results/0001_before-all-student request.png)
+    ![Test Results](test-results/0001_before-all-student-request.png)
   * all-student Request (After)
-    ![Test Results](test-results/001_after-all-student request.png)
+    ![Test Results](test-results/001_after-all-student-request.png)
   * all-student-name Request (Before)
-    ![Test Results](test-results/01_before-all-student-name request.png)
+    ![Test Results](test-results/01_before-all-student-name-request.png)
   * all-student-name Request (After)
-    ![Test Results](test-results/02_after-all-student-name request.png)
+    ![Test Results](test-results/02_after-all-student-name-request.png)
   * highest-gpa Request (Before)
     ![Test Results](test-results/03_before-highest-gpa-request.png)
   * highest-gpa Request (After)
@@ -43,9 +43,9 @@ Jawaban: Ya, terdapat peningkatan performa pada setiap request yang dapat diliha
 
 * JMeter Command Line Tests
     * all-student-name Request
-      ![Test Results](test-results/05_cmdl all-student-name request.png)
+      ![Test Results](test-results/05_cmdl-all-student-name-request.png)
     * highest-gpa
-      ![Test Results](test-results/06_cmdl highest-gpa-request.png)
+      ![Test Results](test-results/06_cmdl-highest-gpa-request.png)
 
 * Profiling with IntelliJ Profiler
     * allStudentName (Before)
